@@ -1,0 +1,29 @@
+#ide
+/.vscode
+/.idea
+/.code-workspace
+
+# Editor directories and files
+.idea
+.vscode 
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.code-workspace
+
+#modules
+node_modules
+package-lock.json
+
+#temp dirs
+local/
+temp/
+tmp/
+
+#logs
+*.log
+
+#static
+assets/
